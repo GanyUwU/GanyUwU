@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# prathamesh_b
-# Hii My name is Prathamesh Bhatte
+# Hey there 👋 My name is Prathamesh Bhatte
 
-**Student studying BE in Computer Engineering at A.P Shah Institute of Technology**
+**Student studying BE in Computer Engineering at A.P Shah Institute of Technology,Thane**
 
 - 🌍 I'm based in Thane,In
-- 📫 You can contact me at prathamb142@gmail.com(mailto:prathamb142@gmail.com)
+- 📫 How to reach me : prathamb142@gmail.com
 - 🌱 I'm currently learning React, Next js
+- 🔭 I’m currently working on https://github.com/GanyUwU/GDGoC-APSIT-Website.git
 
 ---
 
