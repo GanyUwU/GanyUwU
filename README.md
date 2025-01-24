@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on https://github.com/GanyUwU/GDGoC-APSIT-Website.git
 
 ---
-
+[![trophy](https://github-profile-trophy.vercel.app/?GanyUwU=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
