@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 🌍 I'm based in Thane,In
 - 📫 How to reach me : prathamb142@gmail.com
 - 🌱 I'm currently learning React, Next js
-- 🔭 I’m currently working on https://github.com/GanyUwU/GDGoC-APSIT-Website.git
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=GanyUwU)](https://github.com/ryo-ma/github-profile-trophy)
